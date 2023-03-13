@@ -1,11 +1,5 @@
 # Social Network
 
-Archived: No
-Created: March 13, 2023 9:09 AM
-Favorite: No
-Past today: No
-Updated: March 13, 2023 9:32 AM
-
 ![Untitled](Social%20Network%20cbec20bdab2a4cb2b99ba1dbbc68213a/Untitled.png)
 
 During the first semester of the second year, I had to work on a Social Network Java project that expanded my language-knowledge skillset (not only on the current project, but also by doing various small projects as practice for the final exam): Domain-Driven-Design, Factories, Observer, JavaFX, and the “reinforcement” of past OOP principles.
